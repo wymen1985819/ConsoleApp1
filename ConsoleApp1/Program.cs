@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!分支1");
+            Console.WriteLine("Hello World!主干");
         }
     }
 }
